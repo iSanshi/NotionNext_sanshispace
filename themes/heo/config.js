@@ -1,12 +1,12 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-03-13', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '敬启者', url: 'https://isanshi.space' },
-    { title: 'To whom it may concern', url: 'https://isanshi.space' }
+  //  { title: '敬启者', url: 'https://isanshi.space' },
+  //  { title: 'To whom it may concern', url: 'https://isanshi.space' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '一切才刚开始',
   HEO_HERO_TITLE_2: '我们慢慢来',
   HEO_HERO_TITLE_3: 'isanshi.space',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '我想',
   HEO_HERO_TITLE_5: '我的灵魂略大于整个宇宙',
   HEO_HERO_TITLE_LINK: '',
 
