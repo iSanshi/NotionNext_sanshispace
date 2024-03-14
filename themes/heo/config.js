@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '敬启者', url: '/toyou' },
-    { title: 'To whom it may concern', url: '/toyou' }
+    { title: '敬启者', url: '/artical/toyou' },
+    { title: 'To whom it may concern', url: 'artical/toyou' }
 
   ],
 
