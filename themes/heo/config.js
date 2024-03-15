@@ -18,8 +18,8 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '一切才刚开始',
   HEO_HERO_TITLE_2: '我们慢慢来',
-  HEO_HERO_TITLE_3: 'isanshi.space',
-  HEO_HERO_TITLE_4: '',
+  HEO_HERO_TITLE_3: 'isanshi@24Spring',
+  HEO_HERO_TITLE_4: 'isanshi.space',
   HEO_HERO_TITLE_5: '我的灵魂略大于整个宇宙',
   HEO_HERO_TITLE_LINK: '',
 
