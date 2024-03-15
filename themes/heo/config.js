@@ -19,14 +19,14 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '一切才刚开始',
   HEO_HERO_TITLE_2: '我们慢慢来',
   HEO_HERO_TITLE_3: 'isanshi.space',
-  HEO_HERO_TITLE_4: '我想',
+  HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '我的灵魂略大于整个宇宙',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '一些知识', url: '/knowledge' },
-  HEO_HERO_CATEGORY_2: { title: '一种生活', url: '/life' },
-  HEO_HERO_CATEGORY_3: { title: '一点思考', url: '/thinking' },
+  HEO_HERO_CATEGORY_1: { title: '正在上学', url: '/gotoschool' },
+  HEO_HERO_CATEGORY_2: { title: '正在吃饭', url: '/food' },
+  HEO_HERO_CATEGORY_3: { title: '正在运动', url: '/exercising' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
