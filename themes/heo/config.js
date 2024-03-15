@@ -24,9 +24,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '一些知识', url: '/category/knowledge' },
-  HEO_HERO_CATEGORY_2: { title: '一种生活', url: '/category/life' },
-  HEO_HERO_CATEGORY_3: { title: '一点思考', url: '/category/thinking' },
+  HEO_HERO_CATEGORY_1: { title: '一些知识', url: '/knowledge' },
+  HEO_HERO_CATEGORY_2: { title: '一种生活', url: '/life' },
+  HEO_HERO_CATEGORY_3: { title: '一点思考', url: '/thinking' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
